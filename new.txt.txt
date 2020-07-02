@@ -1,0 +1,53 @@
+Assignment 1
+
+ 1)   what is cloud ?
+
+ ans: cloud is nothing but the use of remote services on the internet to store ,
+      manage and process data rather than a local server or personal computer.
+      cloud computing is nothing but the virtual machine not a physical one,
+      we can access that from anywhere at any time without any  restrictions
+      and with extra features as compare to our physical computer.cloud data 
+      center's are present all over the world so the user and companies data have to manage there data physically,
+      and By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines. 
+      
+
+ 2)    why cloud ?
+
+ ans : 1)because cloud is highly reliable 
+       2)cheaper in cost
+       3)no electricity charges are required
+       4)provides full security
+       5)space saving and portable also, and it is very easy to use.
+
+
+  3)    what are the types of cloud ?
+
+  ans : Depending on the type of data you’re working with, 
+        you’ll want to compare public, private, and hybrid clouds in terms of the different levels of security and management required.
+
+       1. Public Cloud – Whole computing infrastructure is located on the premises of a cloud computing company,
+                         that offers the cloud service.
+
+       2. Private Cloud – Hosting all your computing infrastructure yourself and is not shared.
+                          The security and control level is highest while using a private network.
+
+       3. Hybrid Cloud – using both private and public clouds, depending on their purpose. 
+                         You host your most important applications on your own servers to keep them more secure and secondary applications elsewhere.
+
+  4)    what is aws?
+
+  ans : aws is nothing but amazon web services which is a one of the worlds largest cloud platform 
+        aws is now a days worlds no. one cloud platform it occupies  31% of cloud market single handedly.
+        In layman's term we can say aws is a secure cloud servicing platform,offering compute power , 
+        database storage,content delivery and other funcationality to help business scale and grow.
+
+  5)    what is ec2?
+
+  ans : ec2 is nothing but the one of the computing services provided by aws,
+        ec2 is an abbriviation for elastic cloud compute in which you can create your own personal vitual computer with any specification you want
+        user can use any operating system and can get specification according to their needs and they can also make changes in that we can install apps also
+        its nothing but a raw server having the resizebal computing capacity in the cloud ,which can be custamize according to your need.
+
+  6)   what is the difference between venders and servers?
+  ans : 
+
