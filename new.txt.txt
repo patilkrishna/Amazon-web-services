@@ -45,9 +45,19 @@ Assignment 1
 
   ans : ec2 is nothing but the one of the computing services provided by aws,
         ec2 is an abbriviation for elastic cloud compute in which you can create your own personal vitual computer with any specification you want
-        user can use any operating system and can get specification according to their needs and they can also make changes in that we can install apps also
+        user can use any operating system and can get specification according to their needs and they can also make changes in that we can install         apps also
         its nothing but a raw server having the resizebal computing capacity in the cloud ,which can be custamize according to your need.
 
-  6)   what is the difference between venders and servers?
-  ans : 
 
+
+Que 6:-What is servicevces provided by Cloud computing?
+Ans:-1.Amazon Web Services.
+     2.Kamatera.
+     3.Cloudways.
+     4.DigitalOcean.
+     5.Rackspace.
+     6.MassiveGrid.
+     7.Alibaba Cloud.
+     8.LiquidWeb.
+     9.Microsoft Azure.
+     10.Google Cloud Platform.
